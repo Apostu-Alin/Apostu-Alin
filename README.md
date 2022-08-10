@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apostu-Alin
-- 👀 I’m interested in crypto,Software engineering
-- 🌱 I’m currently learning Data Structure in C++
+- 👀 I’m interested in crypto,Software engineering, Frontend Developer
+- 🌱 I’m currently learning Html,Css
 - 📫 How to reach me : vasilealin54@gmail.com
 
 <!---
